@@ -1,2 +1,2 @@
 # WeatherBot
-using both twitter api and openweathermap api,  we will be tweeting current weather temperature for specified cities.
+using both telegram api and openweathermap api,  we will be texting current weather temperature for specified cities.
